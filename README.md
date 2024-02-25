@@ -1,5 +1,8 @@
 # CODEGUARD
 
+![Cactus by Zilvinas Kliucius](assets/zilvinas_kliucius_cactus.png)
+Source: [Zilvinas Kliucius on fotocommunity](https://www.fotocommunity.com/photo/frame-8060-zilvinas-k/46334379)
+
 The classical approach to software security outlined by Gary McGraw, John Viega, and Greg Hoglund in their seminal Software Security Series mandates the integration of all necessary security tasks into the software development process. According to this school of thought, software security rests on three pillars: applied risk management, software security touchpoints, and knowledge.
 
 Software security touchpoints is a set of best practices adopted by leading software companies like Microsoft and government agencies like the U.S. Department of Homeland Security. These best practices are applied to various software artefacts during the software development lifecycle. Importantly, security touchpoints can be applied regardless of which base software process &mdash; waterfall, spiral development, agile &mdash; is being followed by the developers. 
